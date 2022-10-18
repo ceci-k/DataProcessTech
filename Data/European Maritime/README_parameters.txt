@@ -1,0 +1,12 @@
+-----------------------------------------------------------------------------------------------------
+-- Object :  Ports Gazetteer	
+-- File name : Fishing Ports.shp
+-- Source : SeaDataNet (C38) (http://seadatanet.maris2.nl/v_bodc_vocab_v2/welcome.asp) 
+-- Dataset version : Downloaded 26/11/2016
+-- SRID : WGS84   
+-- Coverage : World
+-- Volume : ~ 5000 ports
+-- Period : NA
+-- Licence : SeaDataNet Data policy (https://www.seadatanet.org/Data-Access/Data-policy)
+-- Description : The shapefile contains names and coordinates of fishing ports world-wide.
+-----------------------------------------------------------------------------------------------------
